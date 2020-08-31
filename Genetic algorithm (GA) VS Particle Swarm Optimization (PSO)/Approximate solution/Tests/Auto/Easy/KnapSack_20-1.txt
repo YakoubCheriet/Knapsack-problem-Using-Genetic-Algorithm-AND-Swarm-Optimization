@@ -1,0 +1,11 @@
+Nombre d Objet : 
+20
+ 
+Vecteur Poids  : 
+20 20 12 13 14 19 20 16 13 11 12 17 17 15 18 15 13 16 16 10 
+ 
+Vecteur Profit : 
+16 16 16 16 29 16 22 29 23 18 30 30 25 16 18 16 23 29 24 22 
+ 
+Capacite Sac Max : 
+77
