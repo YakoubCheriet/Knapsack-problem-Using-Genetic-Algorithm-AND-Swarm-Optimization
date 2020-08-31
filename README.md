@@ -11,7 +11,15 @@ At the end of each test, you can see which Algorithm performs better based on th
 
 Here are some of the screenshots:
 
-Test Generator: ![Population Test Generator](https://raw.githubusercontent.com/YakoubCheriet/Knapsack-problem-Using-Genetic-Algorithm-AND-Swarm-Optimization/master/Genetic%20algorithm%20(GA)%20VS%20Particle%20Swarm%20Optimization%20(PSO)/ScreenShots/Generateur%20de%20Test.PNG)
+![Menu](https://raw.githubusercontent.com/YakoubCheriet/Knapsack-problem-Using-Genetic-Algorithm-AND-Swarm-Optimization/master/Genetic%20algorithm%20(GA)%20VS%20Particle%20Swarm%20Optimization%20(PSO)/ScreenShots/Menu%20Principal.PNG)
+
+![Population Test Generator](https://raw.githubusercontent.com/YakoubCheriet/Knapsack-problem-Using-Genetic-Algorithm-AND-Swarm-Optimization/master/Genetic%20algorithm%20(GA)%20VS%20Particle%20Swarm%20Optimization%20(PSO)/ScreenShots/Generateur%20de%20Test.PNG)
+
+![Global Settings](https://raw.githubusercontent.com/YakoubCheriet/Knapsack-problem-Using-Genetic-Algorithm-AND-Swarm-Optimization/master/Genetic%20algorithm%20(GA)%20VS%20Particle%20Swarm%20Optimization%20(PSO)/ScreenShots/Parametres%20Global.PNG)
+
+![GA & PSO Fitness throughout the Test](https://raw.githubusercontent.com/YakoubCheriet/Knapsack-problem-Using-Genetic-Algorithm-AND-Swarm-Optimization/master/Genetic%20algorithm%20(GA)%20VS%20Particle%20Swarm%20Optimization%20(PSO)/ScreenShots/Graph_GA-PSO.PNG)
+
+![Some Stats](https://raw.githubusercontent.com/YakoubCheriet/Knapsack-problem-Using-Genetic-Algorithm-AND-Swarm-Optimization/master/Genetic%20algorithm%20(GA)%20VS%20Particle%20Swarm%20Optimization%20(PSO)/ScreenShots/Statistique.PNG)
 
 
 NOTE: Last time I edited this project was August 31, 2020. So if you have any suggestion on how to improve it or have different approach you're more than welcome :)
