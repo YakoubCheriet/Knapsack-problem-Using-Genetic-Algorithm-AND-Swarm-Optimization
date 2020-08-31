@@ -10,6 +10,6 @@ At the end of each test, you can see which Algorithm performs better based on th
 
 
 Here are some of the screenshots:
-	Test Generator: 
+	Test Generator: ![Population Test Generator](/Genetic algorithm (GA) VS Particle Swarm Optimization (PSO)/ScreenShots/Generateur de Test.PNG)
 
 NOTE: Last time I edited this project was August 31, 2020. So if you have any suggestion on how to improve it or have different approach you're more than welcome :)
